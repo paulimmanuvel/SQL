@@ -1,0 +1,14 @@
+1 create table City2(
+ID int,
+name varchar(50),
+Country varchar(50),
+District varchar(50),
+Popolation int
+)
+select *from city2
+insert into city2 value(3878,"Scottsdale","USA","Arizona",202705)
+insert into city2 value(3965,"Corona", "USA" ,"California", 124966)
+insert into city2 value(3973,"Concord","USA","California",121780)
+insert into city2 value(3977,"Cedar","Rapids","USA","Iowa",120758 )
+insert into city2 value(3982,"Coral","Springs" ,"USA" ,"Florida" ,117549)
+
